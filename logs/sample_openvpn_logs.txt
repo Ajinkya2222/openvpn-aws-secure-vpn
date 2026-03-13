@@ -1,0 +1,5 @@
+VERIFY OK: depth=1, CN=MyVPN-CA
+VERIFY OK: depth=0, CN=server
+Control Channel: TLSv1.3, cipher TLS_AES_256_GCM_SHA384, 2048 bit RSA
+Data Channel Encrypt: Cipher 'AES-256-GCM'
+Initialization Sequence Completed
